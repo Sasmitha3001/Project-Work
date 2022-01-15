@@ -1,0 +1,11 @@
+Duration (hours),Average_Pulse (bpm),Max_Pulse (bpm),Calorie Burnage ,Hours Work,Hours Sleep ,Sports
+60,50,70,704,2,9.5,Swimmer
+120,165,180,857,5,7,Soccer
+180,140,154,350,5,8,Cricket 
+165,127,184,2187,2,8.5,Hockey  
+30,159,166,350,3.5,9,Basketball 
+60,173.5,190.5,650,4.5,7.5,Badminton 
+60,151,200,775,4,10,Tennis 
+60,169,172,294,4.2,8,Table tennis 
+60,115.25,150.22,308,6,7.5,Archery 
+60,50,160,1200,2.8,9,Sprint 
